@@ -1,5 +1,7 @@
 # Variational Dynamic for Self-Supervised Exploration in Deep Reinforcement Learning
 
+Chenjia Bai, et al. *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021
+
 [Website](https://sites.google.com/view/exploration-vdm)  
 
 ## Introduction
